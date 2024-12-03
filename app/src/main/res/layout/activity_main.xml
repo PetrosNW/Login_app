@@ -15,7 +15,11 @@
      android:layout_marginTop="40dp"
      android:text="Welcome to my page"/>
 
-
-
+ <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="Logout"
+     android:id="@+id/btnLogout"
+     android:layout_centerInParent="true"/>
 
 </RelativeLayout>
