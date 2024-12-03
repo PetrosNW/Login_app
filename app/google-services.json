@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68643141678",
+    "project_id": "hello-world-5cdd6",
+    "storage_bucket": "hello-world-5cdd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68643141678:android:f55f200a52946042f847bf",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPFSdt_oujPUuk2UhzxalnryWnbjpiNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
